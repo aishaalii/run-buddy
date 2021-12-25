@@ -218,14 +218,6 @@ section {
     width: 65%;
 }
 
-.text-left {
-    text-align: left;
-}
-
-.text-right {
-    text-align: right;
-}
-
 .trainer-bio h3 {
     font-size: 32px;
     margin-bottom: 8px;
@@ -241,3 +233,11 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
+
+.text-left {
+    text-align: left;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
